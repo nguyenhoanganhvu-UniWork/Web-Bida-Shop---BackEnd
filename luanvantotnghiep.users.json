@@ -1,0 +1,207 @@
+[{
+  "_id": {
+    "$oid": "691693ed18d3e71b1c643b49"
+  },
+  "name": "tai",
+  "email": "tai@gmail.com",
+  "password": "$2b$10$KIpZfqIFvwzgmCdzz9kDlObLrACFsbK.LrfXQwYbGwtO/HCLeqQSe",
+  "phone": "0957385345",
+  "role": "customer",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-14T02:29:01.370Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-29T02:49:00.305Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69169eacdb5962dd3694e7cb"
+  },
+  "name": "tai",
+  "email": "ta1i",
+  "password": "$2b$10$5S6PY1PLzpjPTFU.F3.E0.YJzruDzZqDVaPc4hk6VqI0JhK5fCdl2",
+  "phone": "0957385344",
+  "role": "admin",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-14T03:14:52.376Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-29T02:44:42.403Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6950ff1ebccc7cc415d48d77"
+  },
+  "name": "user",
+  "email": "user@gmail.com",
+  "password": "$2b$10$J7cmJEM1R4krMjCfreMjUuef8rhOORsKEUB3CMjb2jjw.b.tiEltG",
+  "phone": "0909090909",
+  "address": "",
+  "role": "customer",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-12-28T09:57:50.490Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-29T02:44:46.218Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695147df556c9100863b2902"
+  },
+  "name": "Tai",
+  "email": "user@gmail",
+  "password": "$2b$10$9hx5sy8Be.7HG.NYSK.8EuprkEFJyiwQsRvMfUWaVLCyQ2ajldex.",
+  "phone": "0987888886",
+  "address": "",
+  "role": "customer",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-12-28T15:08:15.923Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-28T15:08:15.923Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69514806556c9100863b290a"
+  },
+  "name": "tai",
+  "email": "user1@gmail.com",
+  "password": "$2b$10$Hf7AHGi72lfHAhMLPXGCfONCN1Xs/TRolsy.jTr.xBXYcFIdqNJIm",
+  "phone": "0909090908",
+  "address": "",
+  "role": "customer",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-12-28T15:08:54.687Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-28T15:08:54.687Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69514836556c9100863b2912"
+  },
+  "name": "tai",
+  "email": "tai1@gmail.com",
+  "password": "$2b$10$WwfIlTuo7OJvySn9B0hS.ev6N.Yh0s0rGhM3rPmWFr89KGz9z84b2",
+  "phone": "0854555508",
+  "address": "",
+  "role": "customer",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-12-28T15:09:42.866Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-28T15:09:42.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6951eb9688e9235f46bf214c"
+  },
+  "name": "user",
+  "email": "ta1i@gmail.com",
+  "password": "$2b$10$DpujaZV3QQCcGdm3LqgjkubXrNME8XHilEQyQkMif./.fSCpl0D5m",
+  "phone": "0854555504",
+  "address": "",
+  "role": "admin",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-12-29T02:46:46.335Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-29T02:46:46.335Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6957780a91e8745c92d5c70a"
+  },
+  "name": "tài",
+  "email": "trongtai123455@gmail.com",
+  "password": "$2b$10$6O8Tmejk5QvAY9y8M5OfVOQeZdUfw9JEdi7w1UPyF/Tix.1yp5uqi",
+  "phone": "0999999999",
+  "address": "",
+  "role": "customer",
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-01-02T07:47:22.682Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-02T07:47:22.682Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6957782991e8745c92d5c711"
+  },
+  "name": "trong tai",
+  "email": "1@gmail.com",
+  "password": "$2b$10$YmQdX6Q/8znrsiaOwP9w1u2t/wY7iMfjjd2K9gf8T.VO.6DAilp0.",
+  "phone": "0854555507",
+  "address": "",
+  "role": "customer",
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-01-02T07:47:53.665Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-02T07:47:53.665Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e51765c06c16ce371cc37"
+  },
+  "name": "HỒ THỊ NHƯ QUỲNH",
+  "email": "trongtai494@gmail.com",
+  "password": "$2b$10$E0mN5K1G0Y0vGwXlnFDhuuqXimx/FwJy1ZPL3OvEwmdzQlPH.2.V2",
+  "phone": "0909090902",
+  "address": "",
+  "role": "customer",
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-01-19T15:44:54.404Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-19T15:44:54.404Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e83e762f80ff3ff70b841"
+  },
+  "name": "HỒ THỊ NHƯ QUỲNH",
+  "email": "trongtai4944@gmail.com",
+  "password": "$2b$10$cBBlBsamRCO0L6BqYMf3JOCVBqTtSHe6vAaXiwklhKIfVhE/t1g..",
+  "phone": "0384141363",
+  "address": "",
+  "role": "customer",
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-01-19T19:20:07.560Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-19T19:20:07.560Z"
+  },
+  "__v": 0
+}]
